@@ -2,7 +2,7 @@
 
 # Images of the application
 ![start](start.png)
-![moviedb](moviedb.png)
+![db](db.png)
 
 ## Functions
 
