@@ -1,9 +1,9 @@
 # Android Java MovieDB App using themoviedb
 
 # Images of the application
-
-![start](start.png)
 ![db](db.png)
+![start](start.png)
+
 
 ## Functions
 
