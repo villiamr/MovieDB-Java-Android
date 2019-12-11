@@ -1,7 +1,8 @@
 # Android Java MovieDB App using themoviedb
 
 # Images of the application
-![ClassDiagram](ClassDiagramFactory.png)
+![start](start.png)
+![moviedb](moviedb.png)
 
 ## Functions
 
