@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Labb4</string>
+    <string name="textview">TextView</string>
+    <string name="get_movies">Get movies</string>
+    <string name="saved_movies">Saved movies</string>
+    <string name="save_movie">SAVE MOVIE</string>
+    <string name="similiar_movies_to">Similiar movies to</string>
+    <string name="get_similar">GET SIMILAR</string>
+    <string name="delete_movie">DELETE MOVIE</string>
+    <string name="get_actors">GET ACTORS</string>
+</resources>
